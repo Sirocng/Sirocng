@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**Sirocng/Sirocng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif)
 
-Here are some ideas to get you started:
+**I'm Sircong**
+- 某公司在职安全工程师
+- RedTeam/BlueTeam/赏金猎人
+- ✈️ 江西/上海/北京/深圳/杭州/东莞/广州
+- 💬 老老实实学安全，老老实实生活
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**🛠 技术相关 | Tech Stack**
+- 💻 渗透测试
+- 🔭 代码审计
+- 🛠  红蓝对抗评估
+- 🌐 python/java/php/go
+
+**🌱 其他擅长 | Hobby**
+- 📸 摄影
+- 🖍️ UI设计
+
+**💬 联系 | Contact**
+- Wechat: Sirocng
