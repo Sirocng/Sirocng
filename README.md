@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![image](https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif)
+![Image](https://user-images.githubusercontent.com/56618386/230406508-5ef484c1-0bb9-4aff-9b2a-f3f7b74af2d0.gif)
 
-**I'm Sircong**
+### 👻 I'm Sircong 
 - 某公司在职安全工程师
 - RedTeam/BlueTeam/赏金猎人
 - ✈️ 江西/上海/北京/深圳/杭州/东莞/广州
